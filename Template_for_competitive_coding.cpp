@@ -12,11 +12,11 @@ long int mod=1000000007;
 #define endl "\n"
 int main()
 {
-	io
-	#ifndef ONLINE_JUDGE 
+    io
+    #ifndef ONLINE_JUDGE 
     freopen("input.txt", "r", stdin); 
     freopen("output.txt", "w", stdout);
-	#endif 
+    #endif 
 
     int t=1;
     cin>>t;
